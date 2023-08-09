@@ -64,7 +64,7 @@ async def init():
     except:
         pass
     await Kaal.decorators()
-    LOGGER("SankiMusic").info("Congratulations, Your isha Bot Now Deployed ...")
+    LOGGER("SankiMusic").info("Congratulations, Your  Lucia-xbot Now Deployed ...")
     await idle()
 
 
